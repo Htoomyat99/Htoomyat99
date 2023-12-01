@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4E16AQGSSmYrRT_rdA/profile-displaybackgroundimage-shrink_350_1400/0/1677828818331?e=1706745600&v=beta&t=ONn4xIsB5dBXQ0eluiUzRjJZ73HeiVdlMAKTds9nI2E)](https://htoomyat99.io)
+
 <h1 align="center">Hi 👋, I'm Htoo Myat Lwin</h1>
 <h3 align="center">A passionate mobile developer from Myanmar</h3>
 
