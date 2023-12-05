@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **htoomyat.20399@gmail.com**
 
-- 📄 Know about my experiences I have 1 and half years experience as a React Native Developer and 3-month experience as Flutter mobile Developer](I have 1 and half years experience as a React Native Developer and 3-month experience as Flutter Mobile Developer)
+- 📄 Know about my experiences (I have 1 and half years experience as a React Native Developer and 3-month experience as Flutter Mobile Developer)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
