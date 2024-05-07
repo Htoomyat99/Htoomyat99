@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=htoomyat99&label=Profile%20views&color=0e75b6&style=flat" alt="htoomyat99" /> </p>
 
-- 🌱 I’m currently learning **React Native, Flutter**
+- 🌱 I’m currently learning **Javascript, React, ReactNative, Node **
 
 - 👨‍💻 All of my projects are available at [https://github.com/Htoomyat99](https://github.com/Htoomyat99)
 
