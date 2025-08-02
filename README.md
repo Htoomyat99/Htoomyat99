@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **htoomyat.20399@gmail.com**
 
-- 📄 Know about my experiences (over 2 year experience as a React Native Developer and 3-month experience as Flutter Mobile Developer, Currently Working in TerraFirma as a Mobile Developer)
+- 📄 Know about my experiences (over 2 year experience as a React Native Developer and 3-month experience as Flutter Mobile Developer, Currently Working in TerraFirma as a FrontEnd Mobile and Web Developer)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
